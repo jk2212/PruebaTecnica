@@ -1,0 +1,7 @@
+C:\Users\Yesika\Desktop\EJERCICIO2\CADEncuesta\bin\Debug\CADEncuesta.dll.config
+C:\Users\Yesika\Desktop\EJERCICIO2\CADEncuesta\bin\Debug\CADEncuesta.dll
+C:\Users\Yesika\Desktop\EJERCICIO2\CADEncuesta\bin\Debug\CADEncuesta.pdb
+C:\Users\Yesika\Desktop\EJERCICIO2\CADEncuesta\obj\Debug\CADEncuesta.csproj.CoreCompileInputs.cache
+C:\Users\Yesika\Desktop\EJERCICIO2\CADEncuesta\obj\Debug\CADEncuesta.dll
+C:\Users\Yesika\Desktop\EJERCICIO2\CADEncuesta\obj\Debug\CADEncuesta.pdb
+C:\Users\Yesika\Desktop\EJERCICIO2\CADEncuesta\obj\Debug\CADEncuesta.csprojAssemblyReference.cache
